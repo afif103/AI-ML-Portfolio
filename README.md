@@ -15,8 +15,9 @@ My portfolio for Junior AI/ML Engineer roles, showcasing projects from my 6-week
 
 ## Week 2: Machine Learning with scikit-learn
 - **Folder**: `ML_basics`
-- **File**: `Week2_ML_Basics.ipynb`
-- Built a linear regression model to predict house prices from bedrooms, evaluated with R² score and prediction comparisons.
-- Skills: Python, scikit-learn, Linear Regression, Model Evaluation
+- **File**: `Week2_ML_Basics.ipynb`, `actual_vs_predicted.png`
+- Built a linear regression model to predict house prices from bedrooms, evaluated with R² score, and visualized actual vs. predicted prices.
+- Skills: Python, scikit-learn, Linear Regression, Data Visualization
 
 *Learning from freeCodeCamp’s Python for Data Science course (Oct 2025).*
+
