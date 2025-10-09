@@ -14,9 +14,15 @@ My portfolio for Junior AI/ML Engineer roles, showcasing projects from my 6-week
 - Skills: Python, NumPy, Data Preprocessing
 
 ## Week 2: Machine Learning with scikit-learn
-- **Folder**: `ML_basics`
+- **Folder**: `ML`
 - **File**: `Week2_ML_Basics.ipynb`, `actual_vs_predicted.png`
 - Built a linear regression model to predict house prices from bedrooms, evaluated with R² score, and visualized actual vs. predicted prices.
+- Skills: Python, scikit-learn, Linear Regression, Data Visualization
+
+## Week 3: Advanced Machine Learning
+- **Folder**: `ML`
+- **Files**: `Week3_ML_Intro.ipynb`, `multi_feature_predictions.png`
+- Enhanced linear regression with multiple features (bedrooms, sqft_living, sqft_lot, sqft_above, bathrooms) and visualized predictions.
 - Skills: Python, scikit-learn, Linear Regression, Data Visualization
 
 *Learning from freeCodeCamp’s Python for Data Science course (Oct 2025).*
