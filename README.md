@@ -22,11 +22,12 @@ My portfolio for Junior AI/ML Engineer roles, showcasing projects from my 6-week
 ## Week 3: Advanced Machine Learning
 - **Folder**: `ML`
 - **Files**: `Week3_ML_Intro.ipynb`, `multi_feature_predictions.png`, `decision_tree_predictions.png`, `knn_predictions.png` , `feature_importance.png`
-- Enhanced linear regression with multiple features, implemented decision tree and KNN, analyzed feature importance, compared models with cross-validation, and tuned hyperparameters with GridSearchCV.
-- Skills: Python, scikit-learn, Linear Regression, Decision Trees, KNN, Feature Importance, Cross-Validation, Hyperparameter Tuning, Data Visualization
+- Enhanced linear regression with multiple features, implemented decision tree, KNN, and random forest, analyzed feature importance, compared models with cross-validation, and tuned hyperparameters with GridSearchCV.
+- Skills: Python, scikit-learn, Linear Regression, Decision Trees, KNN, Random Forest, Feature Importance, Cross-Validation, Hyperparameter Tuning, Data Visualization
 
 - ## Learning Resources
 - freeCodeCamp Python for Data Science (October 2025): Pandas, NumPy, scikit-learn.
 - DataCamp "Introduction to Python" (October 2025): Reinforcing Python basics (variables, loops, functions) to support ML projects.
+
 
 
