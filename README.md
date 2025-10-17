@@ -21,9 +21,16 @@ My portfolio for Junior AI/ML Engineer roles, showcasing projects from my 6-week
 
 ## Week 3: Advanced Machine Learning
 - **Folder**: `ML`
-- **Files**: `Week3_ML_Intro.ipynb`, `multi_feature_predictions.png`, `decision_tree_predictions.png`, `knn_predictions.png` , `feature_importance.png`, `random_forest_feature_importance.png`, `xgboost_feature_importance.png`, `model_comparison.png`
+- **Files**: `Week3_ML_Intro.ipynb`, `multi_feature_predictions.png`, `decision_tree_predictions.png`, `knn_predictions.png` , `feature_importance.png`, `random_forest_feature_importance.png`, `xgboost_feature_importance.png`, `model_comparison_RF_XG.png`, `model_comparison_LR_RF_XG.png`
 - Enhanced linear regression with multiple features, implemented decision tree, KNN, and random forest, analyzed feature importance, compared models with cross-validation, and tuned hyperparameters with GridSearchCV.
 - Skills: Python, scikit-learn, Linear Regression, Decision Trees, KNN, Random Forest, Feature Importance,Random Forest Feature Importance, Cross-Validation, Hyperparameter Tuning, XGBoost,  Data Visualization
+
+## House Price Prediction
+- Improved preprocessing (outliers, scaling, mode imputation).
+- Implemented Linear Regression, Random Forest, and optimized XGBoost.
+- Metrics: RMSE ~198K (XGBoost), R² ~0.52 (XGBoost).
+- Visualized model comparison and feature importance.
+- See Week3_ML_Intro.ipynb for details.
 
 - ## Learning Resources
 - freeCodeCamp Python for Data Science (October 2025): Pandas, NumPy, scikit-learn.
