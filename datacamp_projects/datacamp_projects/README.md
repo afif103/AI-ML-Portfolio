@@ -1,6 +1,8 @@
 ## Datacamp Projects
 
-## Project 1 : Planning a Trip to Paris with OpenAI API
-- **Objective**: Generated a Paris travel itinerary using OpenAI API.
-- **Skills**: Prompt engineering, API integration, Python.
+- ## Planning a Trip to Paris with OpenAI API
+- Project 1 : Paris Trip Planner project using OpenAI API
+- **Skills**: Prompt engineering, OpenAI API, Python.
 - **Notebook**: Paris_Trip_Planner.ipynb
+
+
