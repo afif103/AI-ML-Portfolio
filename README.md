@@ -31,7 +31,7 @@ My portfolio for Junior AI/ML Engineer roles, showcasing projects from my 6-week
 - Metrics: RMSE ~198K (XGBoost), R² ~0.52 (XGBoost).
 - Visualized model comparison and feature importance.
 - See Week3_ML_Intro.ipynb for details.
-- 
+
 ## Week 4: Deep Learning
 - **Objective**: Trained neural network on housing data using TensorFlow.
 - **Notebook**: Week4_Deep_Learning_Preview.ipynb
