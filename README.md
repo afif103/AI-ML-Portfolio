@@ -41,7 +41,6 @@ My portfolio for Junior AI/ML Engineer roles, showcasing projects from my 6-week
 - **Folder**: `datacamp_projects`
 - ## Planning a Trip to Paris with OpenAI API
 - Project 1 : Paris Trip Planner project using OpenAI API
-- **Objective**: Generated a Paris travel itinerary using OpenAI API.
 - **Skills**: Prompt engineering, OpenAI API, Python.
 - **Notebook**: Paris_Trip_Planner.ipynb
 
