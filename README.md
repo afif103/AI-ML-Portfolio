@@ -32,6 +32,10 @@ My portfolio for Junior AI/ML Engineer roles, showcasing projects from my 6-week
 - Visualized model comparison and feature importance.
 - See Week3_ML_Intro.ipynb for details.
 
+## Datacamp Projects
+- **Folder**: `datacamp_projects`
+- Project 1 : Paris Trip Planner project using OpenAI API
+
 - ## Learning Resources
 - freeCodeCamp Python for Data Science (October 2025): Pandas, NumPy, scikit-learn.
 - DataCamp "Introduction to Python" (October 2025): Reinforcing Python basics (variables, loops, functions) to support ML projects.
