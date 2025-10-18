@@ -31,10 +31,20 @@ My portfolio for Junior AI/ML Engineer roles, showcasing projects from my 6-week
 - Metrics: RMSE ~198K (XGBoost), R² ~0.52 (XGBoost).
 - Visualized model comparison and feature importance.
 - See Week3_ML_Intro.ipynb for details.
+- 
+## Week 4: Deep Learning
+- **Objective**: Trained neural network on housing data using TensorFlow.
+- **Notebook**: Week4_Deep_Learning_Preview.ipynb
+- **Visuals**: Training loss plot (nn_training_loss.png)  
 
 ## Datacamp Projects
 - **Folder**: `datacamp_projects`
+- ## Planning a Trip to Paris with OpenAI API
 - Project 1 : Paris Trip Planner project using OpenAI API
+- **Objective**: Generated a Paris travel itinerary using OpenAI API.
+- **Skills**: Prompt engineering, OpenAI API, Python.
+- **Notebook**: Paris_Trip_Planner.ipynb
+
 
 - ## Learning Resources
 - freeCodeCamp Python for Data Science (October 2025): Pandas, NumPy, scikit-learn.
