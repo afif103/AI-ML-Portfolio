@@ -42,7 +42,7 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 - Skills: Python, NumPy, Data Preprocessing
 
-🤖 ## Week 2: Machine Learning with scikit-learn
+ ## 🤖 Week 2: Machine Learning with scikit-learn
 
 
 
@@ -62,7 +62,7 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 - Skills: Python, scikit-learn, Linear Regression, Data Visualization
 
-🌳 ## Week 3: Advanced Machine Learning
+## 🌳 Week 3: Advanced Machine Learning
 
 
 
@@ -116,7 +116,7 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 
 
-🚀 ## DataCamp Associate AI Engineer Projects
+##  🚀 DataCamp Associate AI Engineer Projects
 
 
 
@@ -124,7 +124,7 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 - **Folder: /datacamp_projects
 
-✈️ ## Project 1: Planning a Trip to Paris with OpenAI API
+##  ✈️ Project 1: Planning a Trip to Paris with OpenAI API
 
 
 
@@ -143,7 +143,7 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 - Notebook: Paris_Trip_Planner.ipynb
 
-🏥 ## Project 2: Organizing Medical Transcriptions with OpenAI API
+## 🏥 Project 2: Organizing Medical Transcriptions with OpenAI API
 
 
 - **Folder: /datacamp_projects/Organizing_Medical_Transcriptions_with_the_OpenAI_API/
@@ -159,7 +159,7 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 - Notebook: Organizing_Medical_Transcriptions_with_the_OpenAI_API.ipynb
 
-🎓 ## Learning Resources & Certifications
+## 🎓 Learning Resources & Certifications
 
 
 
