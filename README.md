@@ -2,7 +2,7 @@
 
 This portfolio showcases my 6-week learning journey to build skills for Junior AI/ML Engineer positions, featuring hands-on projects and DataCamp certifications.
 
-📊 ## Week 1: Pandas Housing Data Analysis
+##  📊 Week 1: Pandas Housing Data Analysis
 
 
 
