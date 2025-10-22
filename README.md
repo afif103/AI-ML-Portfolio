@@ -1,26 +1,26 @@
-AI/ML Portfolio for Junior AI/ML Engineer Roles
+# AI/ML Portfolio for Junior AI/ML Engineer Roles
 
 This portfolio showcases my 6-week learning journey to build skills for Junior AI/ML Engineer positions, featuring hands-on projects and DataCamp certifications.
 
-📊 Week 1: Pandas Housing Data Analysis
+📊 ## Week 1: Pandas Housing Data Analysis
 
 
 
 
 
-Folder: Python_and_Pandas/
+- Folder: Python_and_Pandas/
 
 
 
-Files: house_price_analysis.ipynb, top_expensive_houses.csv, avg_price_by_bedrooms.png
+-Files: house_price_analysis.ipynb, top_expensive_houses.csv, avg_price_by_bedrooms.png
 
 
 
-Description: Analyzed a housing dataset with Pandas, filtered 3-5 bedroom houses, computed min/max/average prices, and visualized trends with Matplotlib.
+- Description: Analyzed a housing dataset with Pandas, filtered 3-5 bedroom houses, computed min/max/average prices, and visualized trends with Matplotlib.
 
 
 
-Skills: Python, Pandas, Matplotlib, Data Analysis, Data Visualization
+- Skills: Python, Pandas, Matplotlib, Data Analysis, Data Visualization
 
 🧮 Week 2: NumPy Matrix Analysis
 
