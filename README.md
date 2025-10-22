@@ -22,7 +22,7 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 - Skills: Python, Pandas, Matplotlib, Data Analysis, Data Visualization
 
-🧮 ## Week 2: NumPy Matrix Analysis
+##  🧮 Week 2: NumPy Matrix Analysis
 
 
 
