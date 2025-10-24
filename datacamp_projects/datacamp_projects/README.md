@@ -12,7 +12,7 @@
 - **Notebook: Organizing_Medical_Transcriptions_with_the_OpenAI_API.ipynb
 
 - ## Project 3: Topic Analysis of Clothing Reviews with Embeddings
-- 
+
 - Skills: Embeddings, ChromoDB, Python , Scify Distance, OpenAI
 - Notebook: Topic_Analysis_of_Clothing_Reviews_with_Embeddings.ipynb
 
