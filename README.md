@@ -159,6 +159,22 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 - Notebook: Organizing_Medical_Transcriptions_with_the_OpenAI_API.ipynb
 
+## 🏥 Project 3: Topic Analysis of Clothing Reviews with Embeddings
+
+
+- **Folder: /datacamp_projects/Topic_Analysis_of_Clothing_Reviews_with_Embeddings/
+
+
+- **Files: Organizing_Medical_Transcriptions_with_the_OpenAI_API.ipynb
+
+
+
+- Skills: Embeddings, ChromoDB, Python , Scify Distance, OpenAI
+
+
+
+- Notebook: Topic_Analysis_of_Clothing_Reviews_with_Embeddings.ipynb
+
 ## 🎓 Learning Resources & Certifications
 
 
@@ -191,7 +207,7 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 
 
-- Courses Completed: 5/5
+- Courses Progress: 7/9
 
 
 
@@ -222,6 +238,10 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 
 - **Developing AI Systems with the OpenAI API: Advanced API features (function calling, assistants API).
+
+- **Introduction of Embeddings with OpenAI API
+
+- **Vector Databases for Embeddings with Pinecone
 
 🛠️ Skills Summary
 
