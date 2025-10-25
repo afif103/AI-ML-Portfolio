@@ -222,42 +222,16 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 - Details:
 
 
+1) Working with the OpenAI API 
+2) Prompt Engineering with the OpenAI API 
+3) Working with Hugging Face
+4) LLMOps Concepts
+5) Developing AI Systems with the OpenAI API
+6) Introduction to Embeddings with the OpenAI API
+7) Vector Database for Embeddings with Pinecone
+8) Software Engineering Principles in Python
+9) Developing LLM Applications with LangChain 
 
-
-
-1) Working with the OpenAI API: API authentication, basic completions
-
-
-
-2) Prompt Engineering with the OpenAI API: Chain-of-thought, few-shot prompting
-
-
-
-3) Working with Hugging Face: Transformers, pre-trained models (BERT, GPT), pipelines
-
-
-
-4) LLMOps Concepts: LLM lifecycle, versioning, monitoring, deployment
-
-
-
-5) Developing AI Systems with the OpenAI API: Function calling, assistants API
-
-
-
-6) Introduction to Embeddings with OpenAI API: Semantic text representations
-
-
-
-7) Vector Databases for Embeddings with Pinecone: Vector storage, similarity search
-
-
-
-8) Software Engineering Principles in Python: Modular code, testing, best practices
-
-
-
-9) Developing LLM Applications with LangChain: Dynamic LLM app development
 
 🛠️ Skills Summary
 
