@@ -207,11 +207,15 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 
 
-- Courses Progress: 7/9
+- Statement of Accomplishment: Earned October 2025
 
 
 
+- Courses Completed: 9/9
 
+
+
+- Status: 100% complete
 
 
 
@@ -221,29 +225,42 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 
 
-- **Working with the OpenAI API: API authentication, basic completions.
+1) Working with the OpenAI API: API authentication, basic completions
 
 
 
-- **Prompt Engineering with the OpenAI API: Chain-of-thought, few-shot prompting.
+2) Prompt Engineering with the OpenAI API: Chain-of-thought, few-shot prompting
 
 
 
-- **Working with Hugging Face: Transformers, pre-trained models (BERT, GPT), pipelines, tokenization.
+3) Working with Hugging Face: Transformers, pre-trained models (BERT, GPT), pipelines
 
 
 
-- **LLMOps Concepts: LLM lifecycle management, model versioning, monitoring, deployment.
+4) LLMOps Concepts: LLM lifecycle, versioning, monitoring, deployment
 
 
 
-- **Developing AI Systems with the OpenAI API: Advanced API features (function calling, assistants API).
+5) Developing AI Systems with the OpenAI API: Function calling, assistants API
 
-- **Introduction of Embeddings with OpenAI API
 
-- **Vector Databases for Embeddings with Pinecone
+
+6) Introduction to Embeddings with OpenAI API: Semantic text representations
+
+
+
+7) Vector Databases for Embeddings with Pinecone: Vector storage, similarity search
+
+
+
+8) Software Engineering Principles in Python: Modular code, testing, best practices
+
+
+
+9) Developing LLM Applications with LangChain: Dynamic LLM app development
 
 🛠️ Skills Summary
+
 
 
 
@@ -252,7 +269,7 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 
 
-- LLM Technologies: OpenAI API (embeddings, classification, assistants), Hugging Face Transformers
+- LLM Technologies: OpenAI API (embeddings, function calling), Hugging Face, Pinecone, LangChain
 
 
 
@@ -260,7 +277,11 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 
 
-- Domains: Healthcare AI (medical transcriptions), Travel Planning
+- Software Engineering: Modular coding, testing, Python best practices
+
+
+
+- Domains: Healthcare AI, E-commerce (text analysis), Travel Planning
 
 
 
@@ -268,6 +289,6 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 
 
-- Production: Data pipelines, error handling, batch processing, API rate limits
+- Production: Data pipelines, error handling, batch processing, vector databases
 
 
