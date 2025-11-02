@@ -126,8 +126,9 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 **Input Example**:
 ```json
-{"features": [3, 2000, 8000, 1500, 2]}
-
+"features": [3, 2000, 8000, 1500, 2]
+ Output = {"price": 436334.12}
+```
 ## AI/ML Portfolio – Full-Stack House Price Predictor
 
 ##6-Week Journey**: From data → training → **live AI web app**  
