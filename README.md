@@ -110,15 +110,15 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 
 ## 🌳 Week 4: Deep Learning
 
-- **Folder**: Root
+- **Folder**: ML/
 - **Files**: `Week4_Deep_Learning_Preview.ipynb`, `nn_training_loss.png`, `full_model_comparison.png`
 - **Description**: Trained and refined a neural network on housing data using TensorFlow. Added dropout and deeper architecture.
 - **Results**: 
   - **XGBoost**: R² = 0.520, RMSE = $198K
   - **Neural Net**: R² = 0.497, RMSE ≈ $205K
 - **Skills**: TensorFlow, Neural Networks, Model Comparison, Data Visualization
-- **Notebook**: [Week4_Deep_Learning_Preview.ipynb](Week4_Deep_Learning_Preview.ipynb)
-- **Plot**: [full_model_comparison.png](full_model_comparison.png)
+- **Notebook**: Week4_Deep_Learning_Preview.ipynb
+- **Plot**: full_model_comparison.png
 
 
 ##  🚀 DataCamp Associate AI Engineer Projects
