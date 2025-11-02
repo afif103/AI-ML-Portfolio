@@ -7,7 +7,7 @@ st.set_page_config(page_title="AI House Price", page_icon="house", layout="cente
 
 # === HEADER ===
 st.title("AI House Price Predictor")
-st.markdown("**Real XGBoost model trained on 10,000+ homes**")
+st.markdown("**Real XGBoost model trained on 4,000+ real homes (King County, WA)**")
 st.markdown("Enter details → Get **instant AI valuation**")
 
 # === INPUT SLIDERS ===
@@ -45,4 +45,5 @@ st.markdown(
     "Built by **Afif** | "
     "[GitHub](https://github.com/afif103/AI-ML-Portfolio) | "
     "[API](https://house-price-api-mcdo.onrender.com)"
+
 )
