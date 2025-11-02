@@ -120,6 +120,24 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 - **Notebook**: Week4_Deep_Learning_Preview.ipynb
 - **Plot**: full_model_comparison.png
 
+## 🌳 Week 5: MLOps & Deployment
+**LIVE REST API**  
+`POST https://house-price-api-mcdo.onrender.com/predict`
+
+**Input Example**:
+```json
+{"features": [3, 2000, 8000, 1500, 2]}
+
+## AI/ML Portfolio – Full-Stack House Price Predictor
+
+##6-Week Journey**: From data → training → **live AI web app**  
+**Live Demo**: [https://ai-ml-portfolio-fyaeh2svnjvpnq4adljyfd.streamlit.app/]([https://afif103-ai-ml-portfolio.streamlit.app](https://ai-ml-portfolio-fyaeh2svnjvpnq4adljyfd.streamlit.app/))  
+**GitHub**: [github.com/afif103/AI-ML-Portfolio](https://github.com/afif103/AI-ML-Portfolio)
+
+---
+
+
+
 
 ##  🚀 DataCamp Associate AI Engineer Projects
 
