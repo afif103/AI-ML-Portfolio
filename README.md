@@ -11,7 +11,6 @@ This portfolio showcases my 6-week learning journey to build skills for Junior A
 - **Folder: Python_and_Pandas/
 
 
-
 - **Files: house_price_analysis.ipynb, top_expensive_houses.csv, avg_price_by_bedrooms.png
 
 
