@@ -5,7 +5,7 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
-# Load the REAL model
+# Load model at startup
 try:
     model = joblib.load('xgboost_house_model.pkl')
     print("XGBoost model loaded successfully!")
@@ -15,7 +15,10 @@ except Exception as e:
 
 @app.route('/', methods=['GET'])
 def home():
-    return "<h1>AI House Price API is LIVE!</h1><p>POST to /predict with real XGBoost model</p>"
+    if model:
+        return "<h1>AI House Price API LIVE</h1><p>XGBoost model loaded & ready!</p>"
+    else:
+        return "<h1>API Running</h1><p>Warning: Model failed to load</p>", 500
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -25,13 +28,11 @@ def predict():
     try:
         data = request.get_json()
         if not data or 'features' not in data:
-            return jsonify({"error": "Invalid JSON: send {'features': [3,2000,8000,1500,2]}"}), 400
+            return jsonify({"error": "Missing 'features' in JSON"}), 400
 
         features = np.array(data['features']).reshape(1, -1)
         prediction = model.predict(features)[0]
-        
-        # Convert numpy float32 → Python float
-        price = float(prediction)
+        price = float(prediction)  # Convert numpy float32 → Python float
         return jsonify({"price": round(price, 2)})
 
     except Exception as e:
