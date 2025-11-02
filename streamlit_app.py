@@ -47,3 +47,15 @@ st.markdown(
     "[API](https://house-price-api-mcdo.onrender.com)"
 
 )
+
+with st.expander("About This Project"):
+    st.markdown("""
+    ### AI House Price Predictor
+    - **Model**: XGBoost (R² ≈ 0.52)
+    - **Data**: 4,162 real homes (King County, WA)
+    - **Features**: bedrooms, sqft_living, sqft_lot, sqft_above, bathrooms
+    - **Backend**: Flask API on Render.com
+    - **Frontend**: Streamlit Cloud
+    - **Source**: [GitHub](https://github.com/afif103/AI-ML-Portfolio)
+    """)
+
